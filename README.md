@@ -1,5 +1,4 @@
-# Hi there 👋
-## This is me
+# Hi there 👋 This is me: 
 I am a person passionate about technologies, in constant search of
 new knowledge and growth, a professional capable of solving problems by
 providing new ideas and solutions to problems. An empathetic person, able
