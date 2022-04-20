@@ -23,7 +23,6 @@ At Academia Geek i developed:
 - Emapthy
 - Leading
 - problems analyse
-## Certificates
 ## Languages
 - Spanish (Native)
 - French(B2)
