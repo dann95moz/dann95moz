@@ -28,7 +28,8 @@ At Academia Geek i developed:
 - Spanish (Native)
 - French(B2)
 - English(B1)
-#  📫 How to reach me: ...
+#  📫 How to reach me:
+
 send me a message:[LinkedIn](https://www.linkedin.com/in/daniel-corredor-acosta/)
 
 send me an email:[email](mailto:danielcasw@gmail.com)
