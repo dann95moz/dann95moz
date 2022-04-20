@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Profile
+# This is me
 I am a person passionate about technologies, in constant search of
 new knowledge and growth, a professional capable of solving problems by
 providing new ideas and solutions to problems. An empathetic person, able
@@ -28,7 +28,7 @@ At Academia Geek i developed:
 - Spanish (Native)
 - French(B2)
 - English(B1)
-# Contact
+#  📫 How to reach me: ...
 send me a message:[LinkedIn](https://www.linkedin.com/in/daniel-corredor-acosta/)
 
 send me an email:[email](mailto:danielcasw@gmail.com)
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
