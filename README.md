@@ -6,14 +6,14 @@ to solve conflicts and understand working teams generating the ideal
 climate for the fulfillment of the objectives.
 ## Knowledges:
 <div> <img src="https://user-images.githubusercontent.com/21248179/167494352-492362c5-4425-43b5-9540-f28ddbe0e0e5.png" alt="" width=150>
-  
+
  ## 
+ <img src="https://github.com/dann95moz/dann95moz/assets/21248179/9a1b2c0d-01c5-41e4-9346-0db0c3ccfdb8.png" width=50>
+
+  <img src="https://github.com/dann95moz/dann95moz/assets/21248179/f3d63271-a3a6-4eaa-870d-559f06cb85c4.png" width=50>
 <img src="https://user-images.githubusercontent.com/21248179/167495040-fe9bcd2f-874e-409f-8e92-4a847b7c6bcb.svg" width=50>
 <img src="https://user-images.githubusercontent.com/21248179/167495907-13d59f64-4878-498f-a4d9-940589e71745.svg" width=50></div>
 
-
-## Learning: 
-<img src="https://user-images.githubusercontent.com/21248179/167493600-278bfe6e-05ad-4c50-8009-699be1c3d5ae.svg" alt="" width=50>
 
 ## Education
 1. Frontend developer at Academia-Geek
@@ -22,7 +22,10 @@ climate for the fulfillment of the objectives.
 4. Practical Javascript course at platzi
 6. Fundamentals of coding I and II  at Google(Grasshoper)
 ## Experience & software tools:
-At Academia Geek i developed:
+at Inchcape digital delivery centre 💪:
+1. Digital booking system 📖 using Angular and RxJS
+2. Handle Observables 👀
+At Academia Geek:
 1. Vanilla HTML, Javascript & CSS 
 2. React, React hooks, class & functional components ; Restful API’s; web deployment , Styled components,bootstrap, materialUI, use of Firebase and Redux
 ## Soft skills
