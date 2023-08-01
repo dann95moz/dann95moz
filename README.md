@@ -29,6 +29,7 @@ at Inchcape digital delivery centre 💪:
 4. OOP ⌨
 5. Typescript (TS)
 6. Bard / GPT IA's
+   
 At Academia Geek:
 1. Vanilla HTML, Javascript & CSS 
 2. React, React hooks, class & functional components ; Restful API’s; web deployment , Styled components,bootstrap, materialUI, use of Firebase and Redux
