@@ -12,7 +12,11 @@ climate for the fulfillment of the objectives.
 
   <img src="https://github.com/dann95moz/dann95moz/assets/21248179/f3d63271-a3a6-4eaa-870d-559f06cb85c4.png" width=50>
 <img src="https://user-images.githubusercontent.com/21248179/167495040-fe9bcd2f-874e-409f-8e92-4a847b7c6bcb.svg" width=50>
-<img src="https://user-images.githubusercontent.com/21248179/167495907-13d59f64-4878-498f-a4d9-940589e71745.svg" width=50></div>
+<img src="https://user-images.githubusercontent.com/21248179/167495907-13d59f64-4878-498f-a4d9-940589e71745.svg" width=50>
+<img src="https://github.com/dann95moz/dann95moz/assets/21248179/901a6577-1051-4dcd-81fc-f322351d3fa7.png" alt="" width=50>
+<img src="https://github.com/dann95moz/dann95moz/assets/21248179/cefef5ac-4ebe-4351-8b09-fd706e13cc7c.png" alt="" width=50>
+
+</div>
 
 
 ## Education
@@ -21,14 +25,18 @@ climate for the fulfillment of the objectives.
 3. Basic Javascript course at platzi
 4. Practical Javascript course at platzi
 6. Fundamentals of coding I and II  at Google(Grasshoper)
-## Experience & software tools:
-at Inchcape digital delivery centre 💪:
-1. Digital booking system 📖 using Angular and RxJS
-2. Handle Observables 👀
-3. HTTP methods
+## Experience & software tools  💪:
+1.  Angular and RxJS
+2. Observables 
+3. HTTP methods (CRUD)
 4. OOP ⌨
 5. Typescript (TS)
 6. Bard / GPT IA's
+7. React
+8. Custom Hooks
+9. Sass
+10. Atomic design
+11. Mobile First
    
 At Academia Geek:
 1. Vanilla HTML, Javascript & CSS 
