@@ -1,5 +1,5 @@
 # Hi there 👋 This is me: 
-I am a person passionate about technologies, in constant search of
+I am passionate frontend developer, in constant search of
 new knowledge and growth, a professional capable of solving problems by
 providing new ideas and solutions to problems. An empathetic person, able
 to solve conflicts and understand working teams generating the ideal
